@@ -1,0 +1,29 @@
+2021-03-18
+Alexander Thomas Mol Holmquist
+--------------------------------------------------------------------
+
+I am thinking on using the people_wiki dataset for this project,
+just to practice on natural language processing (NLP). If I decide
+to use it, I have to remember to drop the rows where name="author)",
+these are really weird, and as there are only two such rows, the
+loss would be very small.
+
+There is a question to be asked, though: can it be used for
+regression purposes?
+
+I decided not to use text data for regression. That is because
+converting from text data to numerical data is too hard of a task,
+and we have no time for it.
+
+I am thinking of using the data on the New York market for the last few years now... https://www.kaggle.com/dgawlik/nyse?ref=hackernoon.com&select=fundamentals.csv
+
+The thing is, this dataset seems too complex to me. Do I have time
+to deal with it? What tasks would I try to perform?
+
+- Predicting stock prices with data from one day before? This has
+  the disadvantage of being way too simple. But stars in being
+  simple and easy!  Yep, I think this is it. I have enough trouble
+  from elsewhere. I can set the objectives below as secondary.
+  
+- Predicting bankrupcy and alike
+- Mean-reversion and momentum strategies

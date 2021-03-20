@@ -1,0 +1,4 @@
+The data is not included in the repository for the sake of space saving.
+
+The data set used comes from Kaggle, and at the time of writing can
+be found in the website: https://www.kaggle.com/dgawlik/nyse
