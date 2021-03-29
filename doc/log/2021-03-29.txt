@@ -1,0 +1,20 @@
+2021-03-29
+Alexander Thomas Mol Holmquist
+
+Notes on the MD-TP4 project
+--------------------------------------------------------------------
+
+Today I was reading about time series data, and found out that it is
+not that simple, statistically, to deal with it. I had wrong
+presumptions about this...
+
+Anyway, here is a term that I need to get acquainted with: "time
+series frequency". It refers to the frequency by which data was
+collected for the dataset. In our case, for the NY stock prices
+dataset, it was daily. For every day, we have an entry in the
+dataset, with the corresponding open, closing, low and high prices;
+and the volume of transactions made in that day.
+
+At this point I ended up deciding to just start writing the data
+loading and description report. I should include all interesting
+stuff about time series and so on there.
