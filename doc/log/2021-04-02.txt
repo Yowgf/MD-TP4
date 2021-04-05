@@ -1,0 +1,11 @@
+2021-04-02
+Alexander Thomas Mol Holmquist
+
+Starting phase 2 of the project MD-TP4
+--------------------------------------------------------------------
+
+First thing to do: treat data quality problems or suggestions
+mentioned in phase 1.
+
+Notably, we have to think on the data column "open"/"close", and
+"low"/"high".

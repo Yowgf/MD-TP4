@@ -11,3 +11,5 @@ from .step1 import *
 from .step2 import *
 from .step3 import *
 from .step4 import *
+
+from .api import allLoadPreprocess

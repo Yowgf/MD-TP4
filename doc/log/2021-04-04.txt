@@ -1,0 +1,15 @@
+2021-04-04
+Alexander Thomas Mol Holmquist
+
+Notes on the project MD-TP4
+--------------------------------------------------------------------
+
+Today, thank Lord Jesus, I had a sudden realization of the actual
+importance of kurtosis and skew to understanding the distribution of
+data... It turns out the volume of transactions in a day is a
+relatively high kurtosis (~326), high skew (~13) distribution. I had
+calculated these values back in the first phase of the project, but
+I didn't give much attention to them.
+
+Also, the column I created from the file "fundamentals.csv" ended up
+being very far from a normal distribution.
